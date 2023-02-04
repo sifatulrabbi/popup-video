@@ -1,0 +1,7 @@
+{
+  "tabWidth": 2,
+  "arrowParens": "always",
+  "quoteProps": "consistent",
+  "singleQuote": false,
+  "semi": false
+}
